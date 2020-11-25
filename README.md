@@ -1,3 +1,3 @@
-# Hi, I'm Alex
+# Hello, I'm Alex
 
 I'm UI Designer and Front-end Developer.
