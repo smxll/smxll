@@ -1,3 +1,2 @@
-# Hello, I'm Alex
-
-I'm UI Desinger and Front-end Developer
+[<img src="https://dtinth-github.vercel.app/Hello.svg" alt="Hello" name="dtinth-hello">](https://github.com/dtinth/dtinth/blob/vercel/images/Hello.tsx)<br>
+[<img src="https://dtinth-github.vercel.app/Marquee.svg" alt="Welcome to my GitHub profile, thanks for visiting!" name="dtinth-marquee">](https://github.com/dtinth/dtinth/blob/vercel/images/Marquee.tsx)to see the source code that generates it." name="dtinth-marquee">](https://github.com/dtinth/dtinth/blob/vercel/images/Marquee.tsx)
