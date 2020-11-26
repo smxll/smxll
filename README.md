@@ -1,2 +1,2 @@
-[<img src="https://dtinth-github.vercel.app/Hello.svg" alt="Hello" name="dtinth-hello">](https://github.com/dtinth/dtinth/blob/vercel/images/Hello.tsx)<br>
-[<img src="https://dtinth-github.vercel.app/Marquee.svg" alt="Welcome to my GitHub profile, thanks for visiting!" name="dtinth-marquee">](https://github.com/dtinth/dtinth/blob/vercel/images/Marquee.tsx)to see the source code that generates it." name="dtinth-marquee">](https://github.com/dtinth/dtinth/blob/vercel/images/Marquee.tsx)
+[<img src="https://dtinth-github.vercel.app/Hello.svg" alt="hello" name="dtinth-hello">](https://github.com/dtinth/dtinth/blob/vercel/images/Hello.tsx)<br>
+[<img src="https://dtinth-github.vercel.app/Marquee.svg" alt="welcome to my GitHub profile, thanks for visiting! click on each image to see the source code that generates it." name="dtinth-marquee">](https://github.com/dtinth/dtinth/blob/vercel/images/Marquee.tsx)
